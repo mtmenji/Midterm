@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.result {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+}
+
+.result img {
+    max-width: 100px;
+    margin-right: 10px;
+}
+
+.result div {
+    flex: 1;
+}
